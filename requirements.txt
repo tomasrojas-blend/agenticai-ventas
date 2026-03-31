@@ -1,0 +1,13 @@
+streamlit
+boto3
+python-dotenv
+pandas
+plotly
+openpyxl
+psycopg2-binary
+sqlalchemy
+langchain
+langgraph
+langchain-aws
+langchain-mcp-adapters
+langchain-core
