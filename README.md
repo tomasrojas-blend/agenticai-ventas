@@ -57,7 +57,7 @@ El flujo principal del agente es:
 ## 📁 Estructura del proyecto
 
 ```text
-agenticai-loteria/
+agenticai-ventas/
 ├── app.py
 ├── README.md
 ├── requirements.txt
