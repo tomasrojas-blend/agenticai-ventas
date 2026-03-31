@@ -77,6 +77,3 @@ agenticai-loteria/
 │   ├── chart_service.py
 │   ├── export_service.py
 │   └── response_service.py
-└── outputs/
-    ├── charts/
-    └── files/
